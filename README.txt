@@ -1,0 +1,1 @@
+First draft version of Robot Framework POC - Ready to be used for other projects
